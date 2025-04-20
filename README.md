@@ -36,7 +36,7 @@
   • Analyzed gate oscillations, short-circuit behavior, and diode recovery  
   • Created detailed documentation and performance datasheets  
 
-- **Working Student – Reliability Testing (May 2024 – Nov 2024)**  
+- **Working Student – Reliability Testing (May 2024 – Present)**  
   • Performed TST, H3TRB, IPI, SAM, and power cycling tests on IGBT/MOSFET modules  
   • Automated reporting tasks using Excel and analyzed failure modes  
 
