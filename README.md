@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 📚 6th Semester B.Eng. in Electronic Engineering  (158 Credit Completed, Grade: 1,2)
+- 📚 6th Semester B.Eng. in Electronic Engineering  (158 Credits Completed, Grade: 1,2)
 - 🏆 Dr. Arnold Heuck Foundation Scholar (Oct 2023 – Present)  
 - 🏅 Nominated for the **Studienstiftung des deutschen Volkes**  
 - 🧪 Former Research Assistant in Project B5GCyberTestV2X (C-V2X security, spoofing attacks)  
