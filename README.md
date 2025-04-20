@@ -20,10 +20,9 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** C, C++, Python, Embedded C, Markdown  
+- **Languages:** (Embedded) C, C++, VHDL, basics of Bash & Python.  
 - **Hardware:** ESP32, Arduino, AVR128A, STM32, IGBT/MOSFET modules  
-- **Protocols:** UART, I2C, SPI, BLE, UWB  
-- **Software & Tools:** FreeRTOS, OMNeT++, SUMO, Carla, KiCad, LTSpice, Fusion360, SolidWorks, Git, Excel  
+- **Software & Tools:** FreeRTOS, OMNeT++, SUMO, Carla, KiCad, LTSpice, Fusion360, SolidWorks, Git, Microsoft Office  
 - **OS:** macOS, Ubuntu Linux
 
 ---
