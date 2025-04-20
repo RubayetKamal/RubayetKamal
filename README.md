@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Electronics Engineering Student at <strong>Hamm-Lippstadt University of Applied Sciences</strong>  
-  🔬 Working Student @ Infineon Technologies  
+  🔬 Working Student @ Infineon Technologies || Student Assistant for Electronic Engineering & Control Engineering Lab
   🌐 Passionate about Embedded Systems, Power Electronics, and IoT Solutions  
 </p>
 
@@ -13,7 +13,7 @@
 - 📚 6th Semester B.Eng. in Electronic Engineering  
 - 🏆 Dr. Arnold Heuck Foundation Scholar (Oct 2023 – Present)  
 - 🏅 Nominated for the **Studienstiftung des deutschen Volkes**  
-- 🧪 Research Assistant in Project B5GCyberTestV2X (C-V2X security, spoofing attacks)  
+- 🧪 Former Research Assistant in Project B5GCyberTestV2X (C-V2X security, spoofing attacks)  
 - ⚡ Focused on power electronics, embedded systems, UWB positioning, and automation  
 
 ---
