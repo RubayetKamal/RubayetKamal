@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Electronics Engineering Student at <strong>Hamm-Lippstadt University of Applied Sciences</strong>  
-  🔬 Research Assistant | Intern @ Infineon Technologies  
+  🔬 Working Student @ Infineon Technologies  
   🌐 Passionate about Embedded Systems, Power Electronics, and IoT Solutions  
 </p>
 
