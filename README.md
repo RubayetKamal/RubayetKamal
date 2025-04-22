@@ -30,7 +30,7 @@
 ### 💼 Experience
 
 #### 🏢 Infineon Technologies AG
-- **Intern – Electrical Characterization (Nov 2024 – Present)**  
+- **Intern – Electrical Characterization (Nov 2024 – Feb 2025)**  
   • Measured switching losses in inverters using Double Pulse Tests  
   • Analyzed gate oscillations, short-circuit behavior, and diode recovery  
   • Created detailed documentation and performance datasheets  
