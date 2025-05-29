@@ -21,7 +21,8 @@
 ### 🛠️ Tech Stack
 
 - **Languages:** (Embedded) C, C++, VHDL, basics of Bash & Python.  
-- **Hardware:** ESP32, Arduino, AVR128A, STM32, IGBT/MOSFET modules  
+- **
+Hardware:** ESP32, Arduino, AVR128A, STM32, IGBT/MOSFET modules  
 - **Software & Tools:** FreeRTOS, OMNeT++, SUMO, Carla, KiCad, LTSpice, Fusion360, SolidWorks, Git, Microsoft Office  
 - **OS:** macOS, Ubuntu Linux
 
