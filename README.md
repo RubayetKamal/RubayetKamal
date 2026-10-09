@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm Rubayet 👋</h1>
 
 <p align="center">
-  🎓 Electronics Engineering Student at <strong>Hamm-Lippstadt University of Applied Sciences</strong>  
-  🔬 Working Student @ Infineon Technologies || Student Assistant for Electronic Engineering & Control Engineering Lab
-  🌐 Passionate about Embedded Systems, Power Electronics, and IoT Solutions  
+  🎓 Electronics Engineering Graduate from <strong>Hamm-Lippstadt University of Applied Sciences</strong>  
+  🔬 Working Student @ Infineon Technologies || Previously Student Assistant for Electronic Engineering & Control Engineering Lab
+  🌐 Passionate about Embedded Systems, Robotics, Power Electronics, and Machine Learning
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 📚 6th Semester B.Eng. in Electronic Engineering  (158 Credits Completed, Grade: 1,2)
-- 🏆 Dr. Arnold Heuck Foundation Scholar (Oct 2023 – Present)  
+- 📚 MSc. in Automation & Robotics (TU Dortmund) and B.Eng. graduate in Electronic Engineering (Grade: 1,1)
+- 🏆 Dr. Arnold Heuck Foundation Scholar (Oct 2023 – Feb 2026)  
 - 🏅 Nominated for the **Studienstiftung des deutschen Volkes**  
 - 🧪 Former Research Assistant in Project B5GCyberTestV2X (C-V2X security, spoofing attacks)  
 - ⚡ Focused on power electronics, embedded systems, UWB positioning, and automation  
