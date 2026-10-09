@@ -1,28 +1,28 @@
 <h1 align="center">Hi there, I'm Rubayet 👋</h1>
 
 <p align="center">
-  🎓 Electronics Engineering Student at <strong>Hamm-Lippstadt University of Applied Sciences</strong>  
-  🔬 Working Student @ Infineon Technologies || Student Assistant for Electronic Engineering & Control Engineering Lab
-  🌐 Passionate about Embedded Systems, Power Electronics, and IoT Solutions  
+  🎓 M.Sc. Automation & Robotics Student at <strong>TU Dortmund</strong> | B.Eng. Electronic Engineering Graduate of <strong>Hamm-Lippstadt University of Applied Sciences</strong>  
+  🔬 Working Student @ Infineon Technologies  
+  🌐 Passionate about Robotics, Embedded Systems, Power Electronics, and IoT Solutions  
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 📚 6th Semester B.Eng. in Electronic Engineering  (158 Credits Completed, Grade: 1,2)
+- 🎓 M.Sc. in Automation & Robotics at TU Dortmund (current)
+- 📚 B.Eng. in Electronic Engineering at Hochschule Hamm-Lippstadt (HSHL), graduated with a final grade of 1,1
 - 🏆 Dr. Arnold Heuck Foundation Scholar (Oct 2023 – Present)  
 - 🏅 Nominated for the **Studienstiftung des deutschen Volkes**  
 - 🧪 Former Research Assistant in Project B5GCyberTestV2X (C-V2X security, spoofing attacks)  
-- ⚡ Focused on power electronics, embedded systems, UWB positioning, and automation  
+- ⚡ Focused on robotics, power electronics, embedded systems, UWB positioning, and automation  
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages:** (Embedded) C, C++, VHDL, basics of Bash & Python.  
-- **
-Hardware:** ESP32, Arduino, AVR128A, STM32, IGBT/MOSFET modules  
+- **Languages:** (Embedded) C, C++, VHDL, basics of Bash & Python  
+- **Hardware:** ESP32, Arduino, AVR128A, STM32, IGBT/MOSFET modules  
 - **Software & Tools:** FreeRTOS, OMNeT++, SUMO, Carla, KiCad, LTSpice, Fusion360, SolidWorks, Git, Microsoft Office  
 - **OS:** macOS, Ubuntu Linux
 
@@ -31,14 +31,17 @@ Hardware:** ESP32, Arduino, AVR128A, STM32, IGBT/MOSFET modules
 ### 💼 Experience
 
 #### 🏢 Infineon Technologies AG
+- **Working Student – Reliability Testing (May 2024 – Present)**  
+  • Performed TST, H3TRB, IPI, SAM, and power cycling tests on IGBT/MOSFET modules  
+  • Automated reporting tasks using Excel and analyzed failure modes  
+
 - **Intern – Electrical Characterization (Nov 2024 – Feb 2025)**  
   • Measured switching losses in inverters using Double Pulse Tests  
   • Analyzed gate oscillations, short-circuit behavior, and diode recovery  
   • Created detailed documentation and performance datasheets  
 
-- **Working Student – Reliability Testing (May 2024 – Present)**  
-  • Performed TST, H3TRB, IPI, SAM, and power cycling tests on IGBT/MOSFET modules  
-  • Automated reporting tasks using Excel and analyzed failure modes  
+#### 🏫 Hamm-Lippstadt University of Applied Sciences
+- **Student Assistant – Electronic Engineering & Control Engineering Lab**
 
 ---
 
